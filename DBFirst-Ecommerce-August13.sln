@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirst-Ecommerce-August13", "DBFirst-Ecommerce-August13\DBFirst-Ecommerce-August13.csproj", "{6DD28DB2-1FEE-4651-B584-C68E8D8CA4D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirst-Ecommerce-August13.Tests", "DBFirst-Ecommerce-August13.Tests\DBFirst-Ecommerce-August13.Tests.csproj", "{9776D966-5A0D-4378-8CB1-055DA9797CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD28DB2-1FEE-4651-B584-C68E8D8CA4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD28DB2-1FEE-4651-B584-C68E8D8CA4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD28DB2-1FEE-4651-B584-C68E8D8CA4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD28DB2-1FEE-4651-B584-C68E8D8CA4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9776D966-5A0D-4378-8CB1-055DA9797CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9776D966-5A0D-4378-8CB1-055DA9797CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9776D966-5A0D-4378-8CB1-055DA9797CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9776D966-5A0D-4378-8CB1-055DA9797CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23543F98-E91D-4FE4-9008-57F9B24E9FB2}
+	EndGlobalSection
+EndGlobal
